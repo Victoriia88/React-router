@@ -1,10 +1,9 @@
-// App.js
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import UserList from "./UserList";
 import UserDetails from "./UserDetails";
 import AlbumList from "./AlbumList";
-import AlbumDetails from "./AlbumDetails"; // Додайте цей імпорт
+import AlbumDetails from "./AlbumDetails";
 import PhotoList from "./PhotoList";
 import "./App.css";
 
